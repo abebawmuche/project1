@@ -2,8 +2,8 @@
 package bancktransaction;
 import java.util.Scanner;
 class Account{
-    int accountNum;
-    int pin;
+    int accountNumber;
+    int pinnumber;
     double balance;
     public Account(int acountNum,int pin,double balance){
         this.accountNum=acountNum;
